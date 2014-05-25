@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The following set of functions work for a square matrix
+## The functions create and cache the inverse of a square input matrix if available
 
 ## This function creates a special "matrix" object that can cache
 ## its inverse
